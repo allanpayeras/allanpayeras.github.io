@@ -1,6 +1,6 @@
 title: My title
 author: Allan Machado Payeras
-  name: allanpayeras
+  # name: allanpayeras
   email: allan.payeras@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
