@@ -1,4 +1,4 @@
-title: My title
+title: Allan Payeras, PhD
 author: Allan Machado Payeras
 name: allanpayeras
 email: allan.payeras@gmail.com
@@ -21,7 +21,7 @@ description: >
 remote_theme: jekyll/minima
 
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
 
 # Theme-specific settings
@@ -34,7 +34,7 @@ header_pages:
   - resume.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: true
+# show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
