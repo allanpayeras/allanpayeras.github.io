@@ -7,6 +7,7 @@ hero_image: /img/hero_auger.jpg
 hero_darken: true
 ---
 
-
-<img align="left" width="100" src="img/allan.jpg">
-Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum.
+<div>
+<img align="left" width="300" src="img/allan.jpg">
+<span>Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum.</span>
+</div>
