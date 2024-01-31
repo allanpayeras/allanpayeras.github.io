@@ -8,7 +8,7 @@ hero_darken: true
 ---
 
 <div>
-<img align="left" width="300" src="img/allan.jpg" style=”margin-top:2;margin-right:30;margin-bottom:4″>
+<img align="left" width="300" src="img/allan.jpg" style="margin-top:2;margin-right:30;margin-bottom:4">
 
 <span>
 Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum.
