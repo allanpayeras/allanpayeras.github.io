@@ -53,3 +53,32 @@ This result enhances the quality of data collected, ultimately leading to more a
 
 * Developed a linear regression model in C++ (ROOT) to correlate the invariant mass of the top quark to the corresponding decay particles as measured by the ATLAS detector in the Large Hadron Collider (CERN, Switzerland).
 This study was relevant for the inference of intrinsic properties of fundamental particles.
+
+
+## Education
+
+**PhD in Physics**\
+*University of Campinas, Institute of Physics Gleb Wataghin*\
+*December 2023*\
+*São Paulo, Brazil*
+
+* Full scholarship from the São Paulo Research Foundation.
+
+* Research internship at Karlsruhe Institute of Technology (Germany) funded by the São Paulo Research Foundation.
+
+
+**Masters in Physics**\
+*University of Campinas, Institute of Physics Gleb Wataghin*\
+*October 2018*\
+*São Paulo, Brazil*
+
+* Full scholarship from the Federal Agency for Support and Evaluation of Graduate Education (Brazil).
+
+
+**Bachelor in Physics**\
+*Federal University of Paraná*\
+*April 2016*\
+*Paraná, Brazil*
+
+* Study abroad experience at Royal Holloway University of London (United Kingdom) from September 2013 to September 2014.
+Funded by the Brazilian program Science without Borders.
