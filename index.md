@@ -8,5 +8,5 @@ hero_darken: true
 ---
 
 
-![image](/img/allan.jpg){: .align-left}
+<img align="left" width="100" src="img/allan.jpg">
 Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum Lerem ipsum.
