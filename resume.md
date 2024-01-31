@@ -5,12 +5,9 @@ title: Resume
 
 ## Professional experience
 
-**PhD Candidate**
-
-*Universitiy of Campinas*
-
-*2020 - 2023*
-
+**PhD Candidate**\
+*Universitiy of Campinas*\
+*2020 - 2023*\
 *Brazil*
 
 * Developed a data pipeline with bash scripts and C++ in a high performance computing environment (in Linux) to generate simulated data regarding the detection of high-energy cosmic rays with the AugerPrime Observatory.
@@ -19,12 +16,9 @@ title: Resume
 * These findings were documented in technical notes of the Auger Collaboration and presented in international meetings for leading experts in the field of cosmic rays.
 
 
-**PhD Intern**
-
-*Karlsruhe Institute of Technology*
-
-*2021 - 2022*
-
+**PhD Intern**\
+*Karlsruhe Institute of Technology*\
+*2021 - 2022*\
 *Germany*
 
 * Implemented algorithms in C++ to calibrate and process signals of AugerPrime detectors which were included in the official framework of the Auger Collaboration (hosted in GitLab).
@@ -37,24 +31,18 @@ These implementations rendered the framework compatible with data of the upgrade
 * Applying statistical analyses, showed that reconstruction of cosmic ray events using data of the AugerPrime Observatory exhibits less than 5% bias in energy estimation with respect to the pre-upgrade configuration of the detectors. This finding ensures compatibility and a seamless transition between the two operation phases of the Pierre Auger Observatory.
 
 
-**Masters Student**
-
-*University of Campinas*
-
-*2016 - 2018*
-
+**Masters Student**\
+*University of Campinas*\
+*2016 - 2018*\
 *Brazil*
 
 * Using a small-area photomultiplier tube and a cross-calibration procedure in C++, the occurrence of saturation in the AugerPrime detectors was reduced to less than 0.1%.
 This result enhances the quality of data collected, ultimately leading to more accurate estimations of the properties of detected high-energy cosmic rays.
 
 
-**Research Intern**
-
-*Royal Holloway University of London*
-
-*2014 - 2014*
-
+**Research Intern**\
+*Royal Holloway University of London*\
+*2014 - 2014*\
 *United Kingdom*
 
 * Developed a linear regression model in C++ (ROOT) to correlate the invariant mass of the top quark to the corresponding decay particles as measured by the ATLAS detector in the Large Hadron Collider (CERN, Switzerland).
