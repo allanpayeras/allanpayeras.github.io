@@ -4,7 +4,7 @@ title: About
 ---
 
 <div>
-<img align="left" width="300" src="img/allan.jpg" style="margin-top:2px;margin-right:30px;margin-bottom:4px">
+<img align="left" width="300" src="/img/allan.jpg" style="margin-top:2px;margin-right:30px;margin-bottom:4px">
 
 <p>
 As a doctoral researcher and data analyst at Universidade Estadual de Campinas (UNICAMP), I investigated the physical potential of data from the AugerPrime Observatory, the largest cosmic ray observatory in the world.
