@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-menubar_toc: true
+toc: true
 ---
 
 ## Skills
