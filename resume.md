@@ -2,7 +2,10 @@
 layout: page
 title: Resume
 toc: true
+hero_height: is-fullwidth
 ---
+
+Download a PDF version of my resume [here](/assets/resume.pdf).
 
 ## Skills
 
