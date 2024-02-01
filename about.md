@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-hero_height: is-fullwidth
 hide_footer: true
 ---
 
