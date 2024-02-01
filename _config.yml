@@ -10,7 +10,7 @@ defauts:
   -
     scope:
       path: ""
-      type: "page"
+      type: "pages"
     values:
       hero_image: /img/hero_master.jpg
       hero_darken: true
