@@ -18,7 +18,7 @@ I am interested in learning new computational and mathematical tools relevant to
 ## Professional experience
 
 **PhD Candidate**\
-*Universitiy of Campinas*\
+*University of Campinas*\
 *Aug/2018 - Dec/2023, Brazil*
 
 * Developed a data pipeline with bash scripts and C++ in a high performance computing environment (in Linux) to generate simulated data regarding the detection of high-energy cosmic rays with the AugerPrime Observatory.
