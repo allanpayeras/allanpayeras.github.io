@@ -8,31 +8,3 @@ items:
     link: https://github.com/allanpayeras/portfolio/tree/main/summarize_pdf
     link_text: View project
     tags: Python,AI,text-to-speech
-  - title: Audio summaries of academic papers
-    description: |-
-      A python script that summarizes academic papers using generative text AI and produces an MP3 file so that the contents can be conveniently listened.
-    image: /img/headphone.jpg
-    link: https://github.com/allanpayeras/portfolio/tree/main/summarize_pdf
-    link_text: View project
-    tags: Python,AI,text-to-speech
-  - title: Audio summaries of academic papers
-    description: |-
-      A python script that summarizes academic papers using generative text AI and produces an MP3 file so that the contents can be conveniently listened.
-    image: /img/headphone.jpg
-    link: https://github.com/allanpayeras/portfolio/tree/main/summarize_pdf
-    link_text: View project
-    tags: Python,AI,text-to-speech
-  - title: Audio summaries of academic papers
-    description: |-
-      A python script that summarizes academic papers using generative text AI and produces an MP3 file so that the contents can be conveniently listened.
-    image: /img/headphone.jpg
-    link: https://github.com/allanpayeras/portfolio/tree/main/summarize_pdf
-    link_text: View project
-    tags: Python,AI,text-to-speech
-  - title: Audio summaries of academic papers
-    description: |-
-      A python script that summarizes academic papers using generative text AI and produces an MP3 file so that the contents can be conveniently listened.
-    image: /img/headphone.jpg
-    link: https://github.com/allanpayeras/portfolio/tree/main/summarize_pdf
-    link_text: View project
-    tags: Python,AI,text-to-speech
