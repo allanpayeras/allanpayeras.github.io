@@ -15,31 +15,31 @@ If you would like to get in touch, you can find my contact information below.
 
       <!-- Email -->
         <div class="column is-full">
-            <p class="is-flex mr-6">
+            <p class="is-flex">
                 <span class="icon has-text-info">
                     <i class="fas fa-envelope"></i>
                 </span>
-                <span>allan.payeras@gmail.com</span>
+                <span class="ml-6">allan.payeras@gmail.com</span>
             </p>
         </div>
 
         <!-- LinkedIn -->
         <div class="column is-full">
-            <p class="is-flex mr-6">
+            <p class="is-flex">
                 <span class="icon has-text-info">
                     <i class="fab fa-linkedin"></i>
                 </span>
-                <span><a href="https://www.linkedin.com/in/allan-payeras" target="_blank">linkedin.com/in/allan-payeras</a></span>
+                <span class="ml-6"><a href="https://www.linkedin.com/in/allan-payeras" target="_blank">linkedin.com/in/allan-payeras</a></span>
             </p>
         </div>
 
         <!-- GitHub -->
-        <div class="column is-full mr-6">
+        <div class="column is-full">
             <p class="is-flex">
                 <span class="icon has-text-info">
                     <i class="fab fa-github"></i>
                 </span>
-                <span><a href="https://www.gitgub.com/allanpayeras" target="_blank">github.com/allanpayeras</a></span>
+                <span class="ml-6"><a href="https://www.gitgub.com/allanpayeras" target="_blank">github.com/allanpayeras</a></span>
             </p>
         </div>
     </div>
