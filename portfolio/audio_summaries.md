@@ -2,7 +2,7 @@
 layout: page
 title: Audio summaries of academic papers
 hero_image: /img/headphone.jpg
-hero_heigh: is-medium
+hero_height: is-medium
 ---
 
 
