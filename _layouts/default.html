@@ -8,7 +8,7 @@
 {% elsif page.show_sidebar or has_left_sidebar %}
 {% assign content_width = 'is-8' %}
 {% else %}
-{% assign content_width = 'is-10' %}
+{% assign content_width = 'is-11' %}
 {% endif %}
 
 <html
@@ -23,7 +23,7 @@
     {% endunless %}
     {% include callouts.html %}
     <section class="section">
-        <div class="container">
+        <div class="container ml-1">
             <div class="columns is-multiline">
                 {% if page.menubar_toc %}
                 <div class="column is-4-desktop is-4-tablet">
