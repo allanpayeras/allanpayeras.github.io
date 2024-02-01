@@ -6,6 +6,10 @@ hide_footer: true
 
 If you would like to get in touch, you can find my contact information below.
 
+<div class="column is-full mt-3">
+        <!-- Empty space between lines -->
+</div>
+
 <div class="container">
     <div class="columns is-multiline">
 
