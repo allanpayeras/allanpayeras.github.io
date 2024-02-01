@@ -15,7 +15,7 @@ If you would like to get in touch, you can find my contact information below.
 
       <!-- Email -->
         <div class="column is-full">
-            <p class="is-flex is-spaced">
+            <p class="is-flex mr-6">
                 <span class="icon has-text-info">
                     <i class="fas fa-envelope"></i>
                 </span>
@@ -25,7 +25,7 @@ If you would like to get in touch, you can find my contact information below.
 
         <!-- LinkedIn -->
         <div class="column is-full">
-            <p class="is-flex is-spaced">
+            <p class="is-flex mr-6">
                 <span class="icon has-text-info">
                     <i class="fab fa-linkedin"></i>
                 </span>
@@ -34,7 +34,7 @@ If you would like to get in touch, you can find my contact information below.
         </div>
 
         <!-- GitHub -->
-        <div class="column is-full is-spaced">
+        <div class="column is-full mr-6">
             <p class="is-flex">
                 <span class="icon has-text-info">
                     <i class="fab fa-github"></i>
