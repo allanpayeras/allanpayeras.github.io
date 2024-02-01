@@ -5,7 +5,7 @@ hide_footer: true
 ---
 
 
-<div class="columns>
+<div class="columns">
     <div class="column is-4">
         <img align="left" width="300" src="/img/allan.jpg" style="margin-top:2px;margin-right:30px;margin-bottom:4px"></img>
     </div>
