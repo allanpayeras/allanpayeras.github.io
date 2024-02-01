@@ -14,4 +14,4 @@ defaults:
       type: "page"
     values:
       hero_image: /img/hero_default.png
-      # hero_darken: true
+      hero_darken: true
