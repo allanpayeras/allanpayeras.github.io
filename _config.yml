@@ -6,11 +6,12 @@ tagline: allanpayeras
 permalink: pretty
 
 fixed_navbar: top
-defauts:
+
+defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: "page"
     values:
       hero_image: /img/hero_master.jpg
       hero_darken: true
