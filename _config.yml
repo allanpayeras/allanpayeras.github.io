@@ -13,5 +13,5 @@ defaults:
       path: ""
       type: "page"
     values:
-      hero_image: /img/hero_default.jpg
+      hero_image: /img/hero_default.png
       # hero_darken: true
