@@ -33,11 +33,3 @@ hide_footer: true
     </div>
 </div>
 
-
-have phd
-i am curious
-i am a researcher
-scientific method
-professional
-communicate well
-
