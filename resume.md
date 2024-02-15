@@ -9,10 +9,13 @@ Download a PDF version of my resume [here](/assets/resume.pdf).
 
 ## Skills
 
-* Computational tools: Python (Numpy, Pandas, Scipy, Matplotlib), C++ (ROOT), Linux, shell script, git, LaTex.
+* Programming languages: Python, C++, shell script.
+* Data analysis frameworks: Numpy, Pandas, Scipy, Matplotlib, ROOT.
+* Machine learning / deep learning frameworks: Scikit-learn.
 * Theoretical background: statistics, probability, calculus, linear algebra, mathematical modeling, physics.
+* Other computational resources: git, Linux, LaTex.
 
-I am interested in learning new computational and mathematical tools relevant to achieve the goals of projects I am involved with as well as effectively communicating my findings to stakeholders. Given my mathematical background, the learning process is rapid and efficient.
+I am interested in learning new computational and mathematical tools relevant to achieve the goals of projects I am involved with as well as effectively communicating my findings to stakeholders. Given my academic background, the learning process is rapid and efficient.
 
 
 ## Professional experience
@@ -84,6 +87,27 @@ This study was relevant for the inference of intrinsic properties of fundamental
 
 * Study abroad experience at Royal Holloway University of London (United Kingdom) from September 2013 to September 2014.
 Funded by the Brazilian program Science without Borders.
+
+## Publications
+
+All publications by the Pierre Auger Collaboration which I am part can be found in my [Google Scholar](https://scholar.google.com/citations?user=-xHr6xkAAAAJ&hl=en), including the following papers:
+
+*  Abdul Halim, A. *et al.* (Pierre Auger Collaboration). Demonstrating Agreement between Radio and Fluorescence Measurements of the Depth of Maximum of Extensive Air Showers at the Pierre Auger Observatory. *Physical Review Letters* **132** (2024). DOI: [10.1103/PhysRevLett.132.021001](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.021001).
+*  Abdul Halim, A. *et al.* (Pierre Auger Collaboration). AugerPrime surface detector electronics. *Journal of Instrumentation* **18** (2023). DOI: [10.1088/1748-0221/18/10/P10016](https://iopscience.iop.org/article/10.1088/1748-0221/18/10/P10016/meta).
+*  Abreu, P. *et al.* (Pierre Auger Collaboration). Arrival Directions of Cosmic Rays above 32 EeV from Phase One of the Pierre Auger Observatory. *The Astrophysical Journal* **935** (2022). DOI: [10.3847/1538-4357/ac7d4e](https://iopscience.iop.org/article/10.3847/1538-4357/ac7d4e/meta).
+*  Aab, A. *et al.* (Pierre Auger Collaboration). Reconstruction of events recorded with the surface detector of the Pierre Auger Observatory. *Journal of Instrumentation* **15** (2020). DOI: [10.1088/1748-0221/15/10/P10021](https://iopscience.iop.org/article/10.1088/1748-0221/15/10/P10021/meta).
+  
+The following are my publications in proceedings of conferences:
+
+*  Payeras, A & Fauth, A. Arrival time distribution of muons from extensive air showers. *Proceedings of the 37th International Cosmic Ray Conference, Berlin* (2021).
+*  Payeras, A. *et al.* Use of a small photomultiplier tube to extend the dynamic range of the surface detectors of the Pierre Auger Observatory. *Proceedings of the International Conference on Black Holes as Cosmic Batteries: UHECR and Multimessenger Astronomy, Foz do Iguacu* (2018).
+
+All work developed within the Pierre Auger Observatory is documented in internal notes and later combined for publication in the name of the Collaboration. Below are the notes that I have written, which can be accessed by contacting the Publication Committee of the collaboration (`auger-pc@lists.kit.edu`):
+
+*  Compatibility of SD event reconstruction using UB/UUB measurements. *GAP2023_033*.
+*  Compatibility of UB/UUB VEM Calibration, Signals and Timing. *GAP2023_032*.
+*  Use of a small photomultiplier tube to extend the dynamic range of the surface detector of the Pierre Auger Observatory. *GAP2019_023*.
+*  Small PMT performance and calibration in the engineering array stations with old unified board. *GAP2017_064*.
 
 ## Languages
 
