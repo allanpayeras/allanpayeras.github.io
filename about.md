@@ -17,14 +17,14 @@ hide_footer: true
         </p>
         <p>
             When I started my masters in 2016, I commenced my collaboration with the Pierre Auger Observatory, the largest experiment for detection of cosmic rays in the world.
-            During my doctoral research, I investigated the potential of data collected by the upgraded instruments of the Observatory to identify the composition of the most energetic cosmic rays.
+            During my doctoral research, I investigated the potential of data collected by the upgraded instruments of the Observatory to identify the composition of the most energetic cosmic particles in the Universe.
         </p>
         <p>
             I have developed and implemented statistical methods and algorithms using Python and C++ in Linux environments to analyze the reconstruction of high-energy cosmic ray events from data.
             My findings were communicated in conferences and meetings to leading researchers on the field within an international environment.
         </p>
         <p>
-            I have also completed a research internship at Karlsruhe Institute of Technology in Germany and an undergraduate exchange program at Royal Holloway University of London in the United Kingdom.
+            I have also completed a research internship at the Karlsruhe Institute of Technology in Germany and an undergraduate exchange program at the Royal Holloway University of London in the United Kingdom.
             I currently live with my wife and our two cats in the San Francisco Bay Area, California.
         </p>
         <p>
