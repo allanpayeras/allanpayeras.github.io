@@ -7,7 +7,7 @@ items:
     image: /portfolio/star_classification/assets/stars.jpg
     link: /portfolio/star_classification/star_classification/
     link_text: View project
-    tags: Machine Learning,data cleaning,exploratory data analysis
+    tags: Machine Learning,classification,data cleaning,exploratory data analysis
   - title: Audio summaries of academic papers
     description: |-
       A python script that summarizes academic papers using generative text AI and produces MP3 files so that the contents can be conveniently listened.
