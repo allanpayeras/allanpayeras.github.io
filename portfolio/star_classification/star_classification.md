@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Audio summaries of academic papers
+title: Stellar classification with machine learning
 hero_image: /portfolio/star_classification/assets/stars.jpg
 hero_height: is-medium
+toc: true
 ---
 
 Stars fascinate humanity since its beginning. It has played a very important role in our history, providing us with a cosmic calendar which proved itself crucial for activities such as agriculture.

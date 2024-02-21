@@ -16,6 +16,9 @@
  lang="{{ site.lang | default: 'en' }}"
  {% if site.fixed_navbar %}class="has-navbar-fixed-{{ site.fixed_navbar }}"{% endif %}>
   {% include head.html %}
+  <script type="text/javascript"
+    src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
+  </script>
   <body>
     {% include header.html %}
     {% unless page.hide_hero %}

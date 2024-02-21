@@ -3,7 +3,7 @@ intro: |-
 items:
   - title: Stellar classification with machine learning
     description: |-
-      Data from the Hipparcos Astronomical Catalogue is utilized to train different classification models to categorize stars of our galaxy.
+      Data from the Hipparcos Astronomical Catalogue is utilized to train different classification models with the goal of categorizing stars of our galaxy.
     image: /portfolio/star_classification/assets/stars.jpg
     link: /portfolio/star_classification/star_classification/
     link_text: View project
