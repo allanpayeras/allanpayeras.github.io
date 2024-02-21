@@ -72,9 +72,11 @@ However, the more distant a star is the less bright it will appear in the sky.
 To correct for this distance effect and fairly report the true brightness of a star the absolute magnitude $M$ is introduced, which measures the brightness as seen at a fixed distance of 10 parsecs from the star.
 
 The absolute and apparent magnitude are related by the expression
-$$
+<blockquote>
+$\displaystyle{
 M = m - 5 ( \log_{10}(1000/p) - 1),
-$$
+}$
+</blockquote>
 where $p$ is the parallax of the star in milliarcsec.
 The parallax is the apparent change in position of the star in the sky when it is measured at different points in the Earth's orbit around the Sun.
 The larger the parallax of a star the closer it is to Earth.
