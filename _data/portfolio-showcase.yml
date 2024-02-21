@@ -1,6 +1,13 @@
 intro: |-
   Here you find some personal projects I have worked on. All of them are hosted in [this](https://github.com/allanpayeras/portfolio) GitHub repository.
 items:
+  - title: Stellar classification with machine learning
+    description: |-
+      Data from the Hipparcos Astronomical Catalogue is utilized to train different classification models to categorize stars of our galaxy.
+    image: /portfolio/star_classification/assets/stars.jpg
+    link: /portfolio/star_classification/star_classification/
+    link_text: View project
+    tags: Machine Learning,data cleaning,exploratory data analysis
   - title: Audio summaries of academic papers
     description: |-
       A python script that summarizes academic papers using generative text AI and produces MP3 files so that the contents can be conveniently listened.
