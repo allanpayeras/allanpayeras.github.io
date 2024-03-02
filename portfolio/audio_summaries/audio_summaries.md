@@ -70,6 +70,9 @@ This tool, however, requires a GPU for practical performance, for this reason we
 This level of customization would intrinsically be related to the size of the text chunks in the splitting step.
 Moreover, it would potentially require new summarization strategies including experimentation with prompt engineering.
 
+* The LLM could be fine-tuned for summarization of academic papers.
+This approach has the potential of increasing the quality of the summaries, and providing results more aligned with the needs of the academic community.
+
 * The quality of the audio file can be enhanced using a more sophisticated text-to-speech (TTS) tool.
 A test was performed utilizing the OpenAI TTS model, yielding great results, as presented below.
 However, it substantially increases the cost.
