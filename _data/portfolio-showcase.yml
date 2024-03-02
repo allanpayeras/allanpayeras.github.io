@@ -11,7 +11,7 @@ items:
   - title: Audio summaries of academic papers
     description: |-
       A python script that summarizes academic papers using generative text AI and produces MP3 files so that the contents can be conveniently listened.
-    image: /img/headphone.jpg
+    image: /portfolio/audio_summaries/assets/headphone.jpg
     link: /portfolio/audio_summaries/
     link_text: View project
     tags: Python,AI,text-to-speech
