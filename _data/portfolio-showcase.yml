@@ -12,6 +12,6 @@ items:
     description: |-
       A python script that summarizes academic papers using generative AI and produces MP3 files so that the contents can be conveniently listened.
     image: /portfolio/audio_summaries/assets/headphone.jpg
-    link: /portfolio/audio_summaries/
+    link: /portfolio/audio_summaries/audio_summaries/
     link_text: View project
     tags: generative AI, LangChain, text-to-speech, python
