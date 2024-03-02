@@ -23,7 +23,7 @@ As an example, the audio summary of the paper *AugerPrime implementation in the 
     <source src="/portfolio/audio_summaries/assets/summary_2017_ICRC_schmidt.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
-  <button onclick="toggleAudio()"></button>
+  <!-- <button onclick="toggleAudio()"></button> -->
 </div>
 
 <script src="/assets/js/app.js"></script>
@@ -81,7 +81,7 @@ Other models (from Hugging Face) could be employed.
     <source src="/portfolio/audio_summaries/assets/test_openai_tts_2.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
-  <button onclick="toggleAudio()"></button>
+  <!-- <button onclick="toggleAudio()"></button> -->
 </div>
 
 * Provide a graphical user interface to enhance the user experience with the program.
