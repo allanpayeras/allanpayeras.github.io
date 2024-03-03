@@ -9,8 +9,8 @@ Download a PDF version of my resume [here](/assets/resume.pdf).
 ## Skills
 
 * Programming languages: Python, C++, shell script.
-* Data analysis frameworks: Numpy, Pandas, Scipy, Matplotlib, ROOT.
-* Machine learning / deep learning frameworks: Scikit-learn.
+* Data analysis frameworks: Numpy, Pandas, Scipy, Matplotlib, ROOT (CERN).
+* Machine learning / deep learning frameworks: Scikit-learn, TensorFlow, LangChain.
 * Theoretical background: statistics, probability, calculus, linear algebra, mathematical modeling, physics.
 * Other computational resources: git, Linux, LaTex.
 
@@ -89,7 +89,7 @@ Funded by the Brazilian program Science without Borders.
 
 ## Publications
 
-All publications by the Pierre Auger Collaboration which I am part can be found in my [Google Scholar](https://scholar.google.com/citations?user=-xHr6xkAAAAJ&hl=en), including the following papers:
+All publications by the Pierre Auger Collaboration which I am part of can be found in my [Google Scholar](https://scholar.google.com/citations?user=-xHr6xkAAAAJ&hl=en), including the following papers:
 
 *  Abdul Halim, A. *et al.* (Pierre Auger Collaboration). Demonstrating Agreement between Radio and Fluorescence Measurements of the Depth of Maximum of Extensive Air Showers at the Pierre Auger Observatory. *Physical Review Letters* **132** (2024). DOI: [10.1103/PhysRevLett.132.021001](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.021001).
 *  Abdul Halim, A. *et al.* (Pierre Auger Collaboration). AugerPrime surface detector electronics. *Journal of Instrumentation* **18** (2023). DOI: [10.1088/1748-0221/18/10/P10016](https://iopscience.iop.org/article/10.1088/1748-0221/18/10/P10016/meta).
