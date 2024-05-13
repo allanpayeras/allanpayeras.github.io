@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: CV
 toc: true
 ---
 
@@ -19,9 +19,16 @@ I am interested in learning new computational and mathematical tools relevant to
 
 ## Professional experience
 
-**PhD Candidate**\
-*University of Campinas*\
-*Aug/2018 - Dec/2023, Brazil*
+*SRI International, United States*\
+**Bioscience Research Technician**\
+*Mar/2024 - present*
+
+* Implementing computational pipelines for performing statistical analyses and visualization using Python libraries (Numpy, Pandas, Matplotlib) to interpret data from CRISPR screen experiments.
+
+
+*University of Campinas, Brazil*\
+**Ph.D. Candidate**\
+*Aug/2018 - Dec/2023*
 
 * Developed a data pipeline with bash scripts and C++ in a high performance computing environment (in Linux) to generate simulated data regarding the detection of high-energy cosmic rays with the AugerPrime Observatory.
 * Developed a nonlinear regression model using Python to predict signals due to muons within the AugerPrime detectors. The model exhibits a bias below 5%, validated with Monte Carlo simulations.
@@ -29,9 +36,9 @@ I am interested in learning new computational and mathematical tools relevant to
 * These findings were documented in technical notes of the Auger Collaboration and presented in international meetings for leading experts in the field of cosmic rays.
 
 
-**PhD Intern**\
-*Karlsruhe Institute of Technology*\
-*Nov/2021 - Nov/2022, Germany*
+*Karlsruhe Institute of Technology, Germany*\
+**Visiting Doctoral Researcher**\
+*Nov/2021 - Nov/2022*
 
 * Implemented algorithms in C++ to calibrate and process signals of AugerPrime detectors which were included in the official framework of the Auger Collaboration (hosted in GitLab).
 These implementations rendered the framework compatible with data of the upgraded detectors of the Observatory.
@@ -43,17 +50,17 @@ These implementations rendered the framework compatible with data of the upgrade
 * Applying statistical analyses, showed that reconstruction of cosmic ray events using data of the AugerPrime Observatory exhibits less than 5% bias in energy estimation with respect to the pre-upgrade configuration of the detectors. This finding ensures compatibility and a seamless transition between the two operation phases of the Pierre Auger Observatory.
 
 
-**Masters Student**\
-*University of Campinas*\
-*Mar/2016 - Oct/2018, Brazil*
+*University of Campinas, Brazil*\
+**Master’s student**\
+*Mar/2016 - Oct/2018*
 
 * Using a small-area photomultiplier tube and a cross-calibration procedure in C++, the occurrence of saturation in the AugerPrime detectors was reduced to less than 0.1%.
 This result enhances the quality of data collected, ultimately leading to more accurate estimations of the properties of detected high-energy cosmic rays.
 
 
-**Research Intern**\
-*Royal Holloway University of London*\
-*Jun/2014 - Sep/2014, United Kingdom*
+*Royal Holloway University of London, United Kingdom*\
+**Summer Research Intern**\
+*Jun/2014 - Sep/2014*
 
 * Developed a linear regression model in C++ (ROOT) to correlate the invariant mass of the top quark to the corresponding decay particles as measured by the ATLAS detector in the Large Hadron Collider (CERN, Switzerland).
 This study was relevant for the inference of intrinsic properties of fundamental particles.
@@ -61,8 +68,8 @@ This study was relevant for the inference of intrinsic properties of fundamental
 
 ## Education
 
-**PhD in Physics**\
 *University of Campinas, Institute of Physics Gleb Wataghin*\
+**Ph.D. in Physics**\
 *December 2023*\
 *São Paulo, Brazil*
 
@@ -71,16 +78,16 @@ This study was relevant for the inference of intrinsic properties of fundamental
 * Research internship at Karlsruhe Institute of Technology (Germany) funded by the São Paulo Research Foundation.
 
 
-**Masters in Physics**\
 *University of Campinas, Institute of Physics Gleb Wataghin*\
+**Master of Science in Physics**\
 *October 2018*\
 *São Paulo, Brazil*
 
 * Full scholarship from the Federal Agency for Support and Evaluation of Graduate Education (Brazil).
 
 
-**Bachelor in Physics**\
 *Federal University of Paraná*\
+**Bachelor of Science in Physics**\
 *April 2016*\
 *Paraná, Brazil*
 
