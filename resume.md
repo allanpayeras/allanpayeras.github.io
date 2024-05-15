@@ -20,7 +20,7 @@ I am interested in learning new computational and mathematical tools relevant to
 ## Professional experience
 
 *SRI International, United States*\
-**Bioscience Research Technician**\
+**Biosciences Research Technician**\
 *Mar/2024 - present*
 
 * Implementing computational pipelines using Python libraries (Numpy, Pandas, Matplotlib) to perform statistical analyses and visualization of data from CRISPR screen experiments.
