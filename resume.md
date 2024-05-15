@@ -23,7 +23,7 @@ I am interested in learning new computational and mathematical tools relevant to
 **Bioscience Research Technician**\
 *Mar/2024 - present*
 
-* Implementing computational pipelines for performing statistical analyses and visualization using Python libraries (Numpy, Pandas, Matplotlib) to interpret data from CRISPR screen experiments.
+* Implementing computational pipelines using Python libraries (Numpy, Pandas, Matplotlib) to perform statistical analyses and visualization of data from CRISPR screen experiments.
 
 
 *University of Campinas, Brazil*\
