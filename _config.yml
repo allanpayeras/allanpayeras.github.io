@@ -1,4 +1,5 @@
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+theme: bulma-clean-theme
+
 
 title: Allan Payeras, PhD
 tagline: allanpayeras
@@ -13,7 +14,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "page"
+      type: "pages"
     values:
       hero_image: /img/hero_default.jpg
       hero_darken: true
