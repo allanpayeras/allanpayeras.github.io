@@ -1,5 +1,5 @@
 ---
-type: pages
+layout: page
 title: Stellar classification with machine learning
 hero_image: /portfolio/star_classification/assets/stars.jpg
 # hero_height: is-medium

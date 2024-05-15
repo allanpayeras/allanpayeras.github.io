@@ -1,5 +1,5 @@
 ---
-type: pages
+layout: page
 title: Contact
 hide_footer: true
 ---

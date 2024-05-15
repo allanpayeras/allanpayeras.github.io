@@ -1,5 +1,5 @@
 ---
-type: pages
+layout: page
 title: Curriculum Vitae
 toc: true
 ---
