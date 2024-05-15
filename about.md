@@ -1,5 +1,5 @@
 ---
-layout: pages
+type: pages
 title: About
 hide_footer: true
 ---

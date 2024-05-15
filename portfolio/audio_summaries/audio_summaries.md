@@ -1,5 +1,5 @@
 ---
-layout: pages
+type: pages
 title: Audio summaries of academic papers
 hero_image: /portfolio/audio_summaries/assets/headphone.jpg
 # hero_height: is-medium
