@@ -12,9 +12,9 @@ Download a PDF version of my resume [here](/assets/resume.pdf).
 * Data analysis frameworks: Numpy, Pandas, Scipy, Matplotlib, ROOT (CERN).
 * Machine learning / deep learning frameworks: Scikit-learn, TensorFlow, LangChain.
 * Theoretical background: statistics, probability, calculus, linear algebra, mathematical modeling, physics.
-* Other computational resources: git, Linux, LaTex.
+* Other computational resources: git (GitLab, GitHub), Linux, LaTex.
 
-I am interested in learning new computational and mathematical tools relevant to achieve the goals of projects I am involved with as well as effectively communicating my findings to stakeholders. Given my academic background, the learning process is rapid and efficient.
+I am interested in learning new computational and mathematical tools relevant to achieve the goals of projects I am involved with as well as effectively communicating my findings to stakeholders.
 
 
 ## Professional experience
@@ -23,7 +23,7 @@ I am interested in learning new computational and mathematical tools relevant to
 **Biosciences Research Technician**\
 *Mar/2024 - present*
 
-* Implementing computational pipelines using Python libraries (Numpy, Pandas, Matplotlib) to perform statistical analyses and visualization of data from CRISPR screen experiments.
+* Implementing computational pipelines using bioinformatics tools and Python libraries (Numpy, Pandas, Matplotlib) to perform statistical analyses and visualization of data from CRISPR screen experiments.
 
 
 *University of Campinas, Brazil*\
@@ -94,6 +94,7 @@ This study was relevant for the inference of intrinsic properties of fundamental
 * Study abroad experience at Royal Holloway University of London (United Kingdom) from September 2013 to September 2014.
 Funded by the Brazilian program Science without Borders.
 
+
 ## Publications
 
 All publications by the Pierre Auger Collaboration which I am part of can be found in my [Google Scholar](https://scholar.google.com/citations?user=-xHr6xkAAAAJ&hl=en), including the following papers:
@@ -114,6 +115,26 @@ All work developed within the Pierre Auger Observatory is documented in internal
 *  Compatibility of UB/UUB VEM Calibration, Signals and Timing. *GAP2023_032*.
 *  Use of a small photomultiplier tube to extend the dynamic range of the surface detector of the Pierre Auger Observatory. *GAP2019_023*.
 *  Small PMT performance and calibration in the engineering array stations with old unified board. *GAP2017_064*.
+
+
+## Presentations
+
+1. A. Payeras, D. Veberič, D. Schmidt, A. Fauth. Compatibility of UB and UUB VEM charge and gain ratios. Pierre Auger Collaboration Meeting. Malargüe, Argentina (March 2023). (Oral presentation).
+2. A. Payeras, D. Veberič, D. Schmidt, A. Fauth, M. Roth. Muonic signal prediction with the matrix formalism. Pierre Auger Collaboration Meeting. Malargüe, Argentina (November 2022). (Oral presentation).
+3. A. Payeras, D. Veberič, D. Schmidt, M. Roth. Event-level compatibility between UUB and UB stations. Pierre Auger Collaboration Meeting. Malargüe, Argentina (November 2022). (Oral presentation).
+4. A. Payeras, A. Fauth, D. Veberič, D. Schmidt. Separation of muonic and electromagnetic signals using the upgraded detectors of the Pierre Auger Observatory. DPG (Deutsche Physikalische Gesellschaft) Spring Meeting 2022 of the Matter and Cosmos Section. Heidelberg, Germany (March 2022). (Oral presentation)
+5. A. Payeras, A. Fauth. Arrival time distribution of muons from extensive air showers. 37th International Cosmic Ray Conference. Berlin, Germany (July 2021). (Poster presentation).
+6. A. Payeras, A. Fauth. Use of a small photomultiplier tube to extend the dynamic range of the surface detectors of the Pierre Auger Observatory. International Conference on Black Holes as Cosmic Batteries: UHECR and Multimessenger Astronomy. Foz do Iguacu, Brazil (September 2018). (Poster presentation).
+7. A. Payeras, A. Fauth. Small PMT performance and calibration in the engineering array stations with old unified boards. Pierre Auger Collaboration Meeting. Malargüe, Argentina (November 2017). (Oral presentation).
+8. A. Payeras, A. Fauth. Study of the dynamic range extension of the surface detector of the Pierre Auger Observatory. XXXVIII Encontro de Física de Partículas e Campos. Passa Quatro, Brazil (September 2017). (Poster presentation).
+
+## Participation in other events
+
+1. *Minicourse Neutrino Physics and Astrophysics* by Professor Francesco Vissani (Gran Sasso Science Institute, Italy). Institute for Advanced Studies of the University of Campinas, Brazil (September 2019).
+2. *1st GEANT4 Tutorial in São Paulo*. Institute of Physics of the University of São Paulo, Brazil (February 2019).
+3. *Observational Cosmology - 2018 IFGW Winter School*. Institute of Physics Gleb Wataghin of the University of Campinas, Brazil (July 2018). 
+4. *Giant Magellan Telescope - Science and Instrumentation Workshop*. Institute of Astronomy, Geophysics and Atmospheric Sciences of the University of São Paulo, Brazil (October 2017).
+
 
 ## Languages
 
